@@ -1,0 +1,14 @@
+../Core/Src/PZEM004T/pzem004t.c:11:17:ModRTU_CRC	32	static
+../Core/Src/PZEM004T/pzem004t.c:26:6:PZEM_Init	16	static
+../Core/Src/PZEM004T/pzem004t.c:32:6:PZEM_RequestVoltage	16	static
+../Core/Src/PZEM004T/pzem004t.c:37:6:PZEM_RequestCurrent	16	static
+../Core/Src/PZEM004T/pzem004t.c:42:6:PZEM_RequestPower	16	static
+../Core/Src/PZEM004T/pzem004t.c:49:7:PZEM_GetVoltage	16	static
+../Core/Src/PZEM004T/pzem004t.c:54:7:PZEM_GetCurrent	16	static
+../Core/Src/PZEM004T/pzem004t.c:59:7:PZEM_GetPower	16	static
+../Core/Src/PZEM004T/pzem004t.c:66:7:PZEM_ReadVoltage	8	static
+../Core/Src/PZEM004T/pzem004t.c:72:7:PZEM_ReadCurrent	8	static
+../Core/Src/PZEM004T/pzem004t.c:78:7:PZEM_ReadPower	8	static
+../Core/Src/PZEM004T/pzem004t.c:83:7:PZEM_ReadFrequency	24	static
+../Core/Src/PZEM004T/pzem004t.c:91:7:PZEM_ReadEnergy	24	static
+../Core/Src/PZEM004T/pzem004t.c:99:7:PZEM_ReadPowerFactor	24	static

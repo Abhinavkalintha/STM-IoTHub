@@ -1,0 +1,5 @@
+../Core/Src/SD/user_diskio.c:13:9:USER_initialize	1
+../Core/Src/SD/user_diskio.c:19:9:USER_status	1
+../Core/Src/SD/user_diskio.c:23:9:USER_read	1
+../Core/Src/SD/user_diskio.c:28:9:USER_write	1
+../Core/Src/SD/user_diskio.c:37:9:USER_ioctl	1

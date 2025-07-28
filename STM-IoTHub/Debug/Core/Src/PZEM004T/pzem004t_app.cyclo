@@ -1,0 +1,2 @@
+../Core/Src/PZEM004T/pzem004t_app.c:4:6:PZEM004T_Init	1
+../Core/Src/PZEM004T/pzem004t_app.c:8:6:PZEM004T_Read	1

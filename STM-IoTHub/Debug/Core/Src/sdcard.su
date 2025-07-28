@@ -1,0 +1,9 @@
+../Core/Src/sdcard.c:18:6:SD_Select	8	static
+../Core/Src/sdcard.c:22:6:SD_Deselect	8	static
+../Core/Src/sdcard.c:27:6:SD_Init	8	static
+../Core/Src/sdcard.c:45:6:SD_WriteLog	24	static
+../Core/Src/sdcard.c:63:6:SD_WriteOverwrite	24	static
+../Core/Src/sdcard.c:81:6:SD_ReadFile	32	static
+../Core/Src/sdcard.c:100:6:SD_FileExists	16	static
+../Core/Src/sdcard.c:105:6:SD_ListFiles	24	static
+../Core/Src/sdcard.c:125:6:SD_Deinit	8	static

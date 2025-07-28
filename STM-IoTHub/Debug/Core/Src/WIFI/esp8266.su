@@ -1,0 +1,4 @@
+../Core/Src/WIFI/esp8266.c:6:6:ESP8266_ProcessCommand	16	static
+../Core/Src/WIFI/esp8266.c:20:6:ESP_Init	16	static
+../Core/Src/WIFI/esp8266.c:28:6:ESP_SendATCommand	152	static
+../Core/Src/WIFI/esp8266.c:35:6:ESP_SendData	24	static

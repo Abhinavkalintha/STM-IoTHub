@@ -1,0 +1,4 @@
+../Core/Src/BME680/bme680_user.c:9:8:user_i2c_read	2
+../Core/Src/BME680/bme680_user.c:16:8:user_i2c_write	2
+../Core/Src/BME680/bme680_user.c:23:6:user_delay_us	1
+../Core/Src/BME680/bme680_user.c:31:8:init_bme680_sensor	3

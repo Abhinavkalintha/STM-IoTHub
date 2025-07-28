@@ -1,0 +1,6 @@
+../Core/Src/TASKS/uart_ring.c:5:6:uart_ring_init	16	static
+../Core/Src/TASKS/uart_ring.c:10:10:uart_ring_available	16	static
+../Core/Src/TASKS/uart_ring.c:14:9:uart_ring_read	24	static
+../Core/Src/TASKS/uart_ring.c:21:6:uart_ring_write	24	static
+../Core/Src/TASKS/uart_ring.c:30:6:uart_ring_start_rx	16	static
+../Core/Src/TASKS/uart_ring.c:35:6:uart_ring_rx_handler	16	static

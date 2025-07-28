@@ -1,0 +1,475 @@
+2025-07-28 10:37:27,621 [INFO] WebApp:191 - Connection restablished
+2025-07-28 10:37:29,671 [INFO] WebApp:194 - Connection lost
+2025-07-28 10:37:30,259 [INFO] WebApp:191 - Connection restablished
+2025-07-28 10:39:44,838 [INFO] WebApp:194 - Connection lost
+2025-07-28 10:39:45,576 [INFO] WebApp:191 - Connection restablished
+2025-07-28 10:44:56,132 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:44:56,132 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:44:56,133 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:44:56,133 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:44:56,173 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-28 10:44:56,181 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:44:56,181 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:13,284 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:13,284 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:13,284 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:13,284 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:13,318 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:13,318 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:13,347 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:13,347 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:17,745 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:17,745 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:17,746 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:17,746 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:17,776 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:17,776 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:17,804 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:17,804 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:23,595 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:23,595 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:23,604 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:23,604 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:23,627 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:23,627 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:23,659 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:23,659 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:32,493 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:32,494 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:32,494 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:32,494 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:32,525 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:32,525 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:32,554 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:32,554 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:36,729 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:36,729 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:36,730 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:36,730 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:36,760 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:36,760 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:36,793 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:36,793 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:53,664 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:53,664 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:53,717 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:53,717 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:53,717 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:53,717 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:53,797 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:53,797 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:53,797 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:45:53,797 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:18,878 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:18,879 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:18,880 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:18,880 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:18,919 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-28 10:46:18,940 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:18,941 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,083 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,083 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,083 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,083 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,085 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,085 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,085 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,085 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,107 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,107 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,107 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,107 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,146 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,146 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,148 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,148 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:32,195 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-28 10:46:38,189 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,189 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,189 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,189 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,190 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,191 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,191 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,191 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,220 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,222 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,223 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,223 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,250 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,251 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,253 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,253 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:38,303 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-28 10:46:46,295 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:46,295 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:46,296 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:46,296 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:46,298 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:46,298 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:46,298 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:46:46,298 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,520 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,520 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,520 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,520 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,521 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,521 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,522 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,522 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,553 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,553 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,555 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,555 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,586 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,586 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,588 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:35,588 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,146 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,146 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,146 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,146 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,147 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,148 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,148 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,148 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,191 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,191 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,195 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,195 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,226 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,226 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,228 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:42,228 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,426 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,426 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,427 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,427 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,428 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,428 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,428 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,428 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,461 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,461 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,463 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,463 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,492 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,492 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,494 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:47:47,494 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,798 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,798 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,798 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,798 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,799 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,800 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,800 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,800 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,831 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,831 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,833 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,833 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,863 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,863 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,865 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:39,865 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,752 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,752 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,752 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,752 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,754 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,754 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,754 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,754 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,785 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,785 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,787 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,787 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,808 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,808 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,820 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:43,820 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:52,710 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:52,710 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:52,710 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:52,710 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:52,712 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:52,712 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:52,712 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:48:52,712 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,398 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,398 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,398 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,398 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,400 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,400 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,400 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,400 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,439 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,439 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,441 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,441 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,470 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,470 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,470 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:37,470 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,895 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,895 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,895 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,895 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,898 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,898 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,898 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,898 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,934 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,934 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,936 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,936 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,968 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,968 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,969 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:50:42,969 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:03,061 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:03,063 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:03,063 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:03,063 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:03,065 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:03,065 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:03,065 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:03,065 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,160 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,160 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,160 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,160 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,162 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,162 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,162 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,162 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,199 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,199 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,201 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,201 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,233 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,233 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,234 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:31,234 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:38,974 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:38,974 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:38,974 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:38,974 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:38,975 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:38,975 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:38,976 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:38,976 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:44,148 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:44,148 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:44,148 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:44,148 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:44,150 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:44,150 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:44,150 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:51:44,150 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,412 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,412 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,412 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,413 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,414 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,414 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,414 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,414 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,450 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,450 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,451 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,451 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,483 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,483 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,484 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:12,485 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,384 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,384 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,385 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,385 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,386 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,386 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,386 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,386 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,423 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,423 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,424 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,424 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,456 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,456 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,458 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:18,458 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:25,542 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:25,542 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:25,542 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:25,542 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:25,543 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:25,543 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:25,543 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:25,543 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,491 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,491 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,491 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,491 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,493 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,493 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,494 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,494 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,533 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,534 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,535 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,535 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,571 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,571 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,573 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:52:36,573 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:54:10,318 [INFO] WebApp:194 - Connection lost
+2025-07-28 10:54:10,523 [INFO] WebApp:191 - Connection restablished
+2025-07-28 10:55:27,219 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:27,219 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:27,219 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:27,219 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:27,235 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:27,235 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:27,235 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:27,235 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:41,261 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:41,261 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:41,262 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:41,262 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:41,263 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:41,263 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:41,263 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:55:41,263 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:56:22,404 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 432528264 Bytes (681574400)
+2025-07-28 10:59:20,071 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 280581432 Bytes (681574400)
+2025-07-28 10:59:22,095 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 303453968 Bytes (681574400)
+2025-07-28 10:59:24,202 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 354508088 Bytes (681574400)
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: FREERTOS
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RTC
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-07-28 10:59:26,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: FATFS
+2025-07-28 10:59:26,923 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-07-28 10:59:26,930 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:59:26,930 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:59:26,930 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-07-28 10:59:26,930 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-07-28 10:59:27,088 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\license.tmp_save
+2025-07-28 10:59:27,493 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\license.tmp
+2025-07-28 10:59:27,598 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\gpio.tmp_save
+2025-07-28 10:59:27,735 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\gpio.tmp
+2025-07-28 10:59:27,836 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-07-28 10:59:27,836 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2025-07-28 10:59:28,142 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-07-28 10:59:28,151 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_inc.tmp_save
+2025-07-28 10:59:28,231 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_inc.tmp
+2025-07-28 10:59:28,240 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-07-28 10:59:28,325 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_kernelInit.tmp
+2025-07-28 10:59:28,333 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-07-28 10:59:28,414 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_kernelStart.tmp
+2025-07-28 10:59:28,428 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_typedefs.tmp_save
+2025-07-28 10:59:28,513 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_typedefs.tmp
+2025-07-28 10:59:28,524 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_vars.tmp_save
+2025-07-28 10:59:28,607 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_vars.tmp
+2025-07-28 10:59:28,614 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_pfp.tmp_save
+2025-07-28 10:59:28,696 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_pfp.tmp
+2025-07-28 10:59:28,702 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-07-28 10:59:28,778 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_obj_creat.tmp
+2025-07-28 10:59:28,786 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_default_thread.tmp_save
+2025-07-28 10:59:28,859 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_default_thread.tmp
+2025-07-28 10:59:28,866 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_threads.tmp_save
+2025-07-28 10:59:28,938 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_threads.tmp
+2025-07-28 10:59:28,957 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-07-28 10:59:28,966 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_HalInit.tmp_save
+2025-07-28 10:59:29,038 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_HalInit.tmp
+2025-07-28 10:59:29,047 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_vars.tmp_save
+2025-07-28 10:59:29,115 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_vars.tmp
+2025-07-28 10:59:29,124 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_ext_vars.tmp_save
+2025-07-28 10:59:29,189 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_ext_vars.tmp
+2025-07-28 10:59:29,198 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_inc.tmp_save
+2025-07-28 10:59:29,244 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-07-28 10:59:29,260 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_inc.tmp
+2025-07-28 10:59:29,305 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-07-28 10:59:29,315 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_inc.tmp_save
+2025-07-28 10:59:29,382 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_inc.tmp
+2025-07-28 10:59:29,394 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_kernelInit.tmp_save
+2025-07-28 10:59:29,459 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_kernelInit.tmp
+2025-07-28 10:59:29,471 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_kernelStart.tmp_save
+2025-07-28 10:59:29,528 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_kernelStart.tmp
+2025-07-28 10:59:29,540 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_typedefs.tmp_save
+2025-07-28 10:59:29,603 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_typedefs.tmp
+2025-07-28 10:59:29,611 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_vars.tmp_save
+2025-07-28 10:59:29,675 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_vars.tmp
+2025-07-28 10:59:29,687 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_pfp.tmp_save
+2025-07-28 10:59:29,742 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_pfp.tmp
+2025-07-28 10:59:29,753 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_obj_creat.tmp_save
+2025-07-28 10:59:29,818 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_obj_creat.tmp
+2025-07-28 10:59:29,828 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_default_thread.tmp_save
+2025-07-28 10:59:29,890 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_default_thread.tmp
+2025-07-28 10:59:29,899 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_threads.tmp_save
+2025-07-28 10:59:29,956 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\rtos_threads.tmp
+2025-07-28 10:59:29,966 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Inc\FreeRTOSConfig.h_save
+2025-07-28 10:59:30,046 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Inc\FreeRTOSConfig.h
+2025-07-28 10:59:30,057 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Src\freertos.c_save
+2025-07-28 10:59:30,127 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Src\freertos.c
+2025-07-28 10:59:30,185 [INFO] Middleware:1452 - No code input for Bsp Dependency
+2025-07-28 10:59:30,197 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_HalInit.tmp_save
+2025-07-28 10:59:30,268 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_HalInit.tmp
+2025-07-28 10:59:30,293 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_vars.tmp_save
+2025-07-28 10:59:30,351 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_vars.tmp
+2025-07-28 10:59:30,363 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_ext_vars.tmp_save
+2025-07-28 10:59:30,421 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_ext_vars.tmp
+2025-07-28 10:59:30,432 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_inc.tmp_save
+2025-07-28 10:59:30,488 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\fatfs_inc.tmp
+2025-07-28 10:59:30,498 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\FATFS\Target\ffconf.h_save
+2025-07-28 10:59:30,570 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\FATFS\Target\ffconf.h
+2025-07-28 10:59:30,582 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\FATFS\Target\user_diskio.c_save
+2025-07-28 10:59:30,647 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\FATFS\Target\user_diskio.c
+2025-07-28 10:59:30,658 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\FATFS\Target\user_diskio.h_save
+2025-07-28 10:59:30,720 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\FATFS\Target\user_diskio.h
+2025-07-28 10:59:30,730 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\FATFS\App\fatfs.c_save
+2025-07-28 10:59:30,796 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\FATFS\App\fatfs.c
+2025-07-28 10:59:30,807 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\FATFS\App\fatfs.h_save
+2025-07-28 10:59:30,867 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\FATFS\App\fatfs.h
+2025-07-28 10:59:30,894 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Src\stm32f4xx_it.c_save
+2025-07-28 10:59:30,991 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Src\stm32f4xx_it.c
+2025-07-28 10:59:31,002 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Inc\stm32f4xx_it.h_save
+2025-07-28 10:59:31,070 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Inc\stm32f4xx_it.h
+2025-07-28 10:59:31,095 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Src\stm32f4xx_hal_msp.c_save
+2025-07-28 10:59:31,248 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Src\stm32f4xx_hal_msp.c
+2025-07-28 10:59:31,260 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\system.tmp_save
+2025-07-28 10:59:31,324 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\MXTmpFiles\system.tmp
+2025-07-28 10:59:31,347 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-07-28 10:59:31,423 [INFO] CodeEngine:345 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Inc\stm32f4xx_hal_conf.h
+2025-07-28 10:59:31,485 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2025-07-28 10:59:31,508 [INFO] ApiDbMcu:532 - Load IP Config File for I2C1
+2025-07-28 10:59:31,513 [INFO] ApiDbMcu:532 - Load IP Config File for I2C2
+2025-07-28 10:59:31,523 [INFO] ApiDbMcu:532 - Load IP Config File for RTC
+2025-07-28 10:59:31,529 [INFO] ApiDbMcu:532 - Load IP Config File for SPI2
+2025-07-28 10:59:31,535 [INFO] ApiDbMcu:532 - Load IP Config File for USART2
+2025-07-28 10:59:31,541 [INFO] ApiDbMcu:532 - Load IP Config File for USART6
+2025-07-28 10:59:31,548 [INFO] ApiDbMcu:532 - Load IP Config File for RCC
+2025-07-28 10:59:31,579 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Inc\main.h_save
+2025-07-28 10:59:31,699 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Inc\main.h
+2025-07-28 10:59:31,716 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Src\main.c_save
+2025-07-28 10:59:31,926 [INFO] CodeEngine:289 - Generated code: C:\Users\91916\Desktop\STM-IoTHub\STM-IoTHub\Core\Src\main.c
+2025-07-28 10:59:32,846 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-07-28 10:59:32,846 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2025-07-28 10:59:32,848 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 618mS.
+2025-07-28 10:59:32,866 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-07-28 10:59:32,955 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2025-07-28 10:59:32,959 [INFO] ApiDbMcu:532 - Load IP Config File for LIBJPEG
+2025-07-28 10:59:32,967 [INFO] ApiDbMcu:532 - Load IP Config File for MBEDTLS
+2025-07-28 10:59:32,975 [INFO] ApiDbMcu:532 - Load IP Config File for USB_DEVICE
+2025-07-28 10:59:32,980 [INFO] ApiDbMcu:532 - Load IP Config File for USB_HOST
+2025-07-28 10:59:33,090 [INFO] WebApp:194 - Connection lost

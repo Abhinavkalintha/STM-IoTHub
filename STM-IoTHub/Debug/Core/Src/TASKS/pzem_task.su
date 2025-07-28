@@ -1,0 +1,5 @@
+../Core/Src/TASKS/pzem_task.c:28:6:send_pzem_request	8	static
+../Core/Src/TASKS/pzem_task.c:33:9:receive_pzem_response	16	static
+../Core/Src/TASKS/pzem_task.c:50:6:parse_pzem_data	4	static
+../Core/Src/TASKS/pzem_task.c:60:6:display_pzem_data	40	static
+../Core/Src/TASKS/pzem_task.c:79:6:StartPzemTask	16	static

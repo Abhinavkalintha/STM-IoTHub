@@ -1,0 +1,10 @@
+14:03:44 **** Incremental Build of configuration Debug for project STM-IoTHub ****
+make -j12 all 
+arm-none-eabi-size  STM-IoTHub.elf 
+   text	   data	    bss	    dec	    hex	filename
+  43932	    112	  22352	  66396	  1035c	STM-IoTHub.elf
+Finished building: default.size.stdout
+ 
+
+14:03:45 Build Finished. 0 errors, 0 warnings. (took 841ms)
+
