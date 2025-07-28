@@ -188,11 +188,11 @@ STM-IoTHub/
 ```
 
 
+## 👤 Author
 
-
-👨‍💻 Author
-Abhinav Kalintha
-💼 Embedded Systems Engineer | IoT Developer
-📍 Vadlamudi, Andhra Pradesh, India
-📧 abhinavkalintha@example.com (Replace with your real contact email if desired)
-🔗 GitHub | LinkedIn (Add LinkedIn if available)
+**Abhinav Kalintha**  
+- 💼 Embedded Systems Enthusiast  
+- 🛠️ STM32 | HAL | FreeRTOS | IoT | C  
+- 📧 Email: [abhinavkalintha00077@gmail.com](mailto:abhinavkalintha00077@gmail.com)  
+- 🔗 GitHub: [Abhinavkalintha](https://github.com/Abhinavkalintha)  
+- 🔗 LinkedIn: [Abhinav Kalintha](https://www.linkedin.com/in/abhinav-kalintha/)
